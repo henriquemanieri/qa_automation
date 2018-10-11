@@ -1,0 +1,17 @@
+#Usuario
+data:
+
+  username:
+    administrador: 'admin'
+
+  password:
+    administrador: 'admin'
+
+
+  client_name:
+    usuario_ativo: 'Teste Usuario Ativo '
+    usuario_inativo: 'Teste Usuario Inativo '
+
+  client_cpf:
+    usuario_ativo: '000.000.000-00'
+    usuario_inativo: '999.999.999-99'
